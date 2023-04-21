@@ -1,5 +1,5 @@
 # Discord-webhook-Deleter-
- A open source version of ``https://webhooks.scam.gay``
+ A open source version of `https://webhooks.scam.gay`
 
 
 
